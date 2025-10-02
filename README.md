@@ -374,7 +374,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 This project is developed as a group effort for IT BSc degree demonstration by:
 
 - **Muditha** - Project Lead & System Architecture
-- **Chuck** - Hardware Integration & ESP32 Programming  
+- **Chuks** - Hardware Integration & ESP32 Programming  
 - **Nikolai** - Cloud Services & Mobile App Development
 
 ## �🙏 Acknowledgments
